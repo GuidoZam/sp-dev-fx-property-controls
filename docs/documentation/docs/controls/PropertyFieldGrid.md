@@ -58,7 +58,6 @@ const gridItems:IItem[] = [
           className: 'gridClass',
           styles:  {padding: 10},
           isVisible: true,
-          maxHeight: 500,
           column1Label: 'File',
           column2Label: 'Location',
           onSelected: (item: IItem[]) => {
